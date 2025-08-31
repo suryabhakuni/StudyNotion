@@ -11,3 +11,4 @@ const HighlightText = ({ text }) => {
 
 export default HighlightText;
 
+

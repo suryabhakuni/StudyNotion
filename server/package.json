@@ -10,8 +10,11 @@
 	"keywords": [
 		"studynotion-backend"
 	],
-	"author": "Saikat Mukherjee",
+	"author": "Suya Pratap Bhakuni",
 	"license": "ISC",
+	"engines": {
+    "node": "18.x"
+	},
 	"dependencies": {
 		"bcrypt": "^5.1.0",
 		"bcryptjs": "^2.4.3",
