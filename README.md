@@ -18,8 +18,8 @@ Built with **React, Redux, Tailwind CSS, and Stripe**, StudyNotion focuses on de
 6. **Learning Analytics** – View insights into your activities and progress  
 7. **Search & Filter** – Find courses by category, author, or popularity  
 8. **Responsive Design** – Optimized for all devices and screen sizes  
-9.. **Toaster Notifications** – Instant feedback on actions like completions or messages  
-11. **Stripe Payment Integration** – Secure and seamless course purchases  
+9. **Toaster Notifications** – Instant feedback on actions like completions or messages  
+10. **Stripe Payment Integration** – Secure and seamless course purchases  
 
 ---
 
