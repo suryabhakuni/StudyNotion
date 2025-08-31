@@ -7,7 +7,7 @@ const courseRoutes = require("./routes/Course");
 const paymentRoutes = require("./routes/Payments");
 const contactUsRoute = require("./routes/Contact");
 // Import Stripe routes
-const stripePaymentRoutes = require("./routes/StripePayments");
+const stripePaymentRoutes = require("./routes/stripePayments");
 const database = require("./config/database");
 const cookieParser = require("cookie-parser");
 const cors = require("cors");
